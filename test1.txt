@@ -6,4 +6,5 @@ I am a matintenance superviso
 I teach in git and github
 Now i am working gms composite
 
-hi
+hi 
+logo alignment is centered
