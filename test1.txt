@@ -7,4 +7,5 @@ I teach in git and github
 Now i am working gms composite
 hi 
 logo alignment is centered
-This text added from main branch
+New line added in feature branch
+
