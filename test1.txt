@@ -5,6 +5,6 @@ I have complite computer course in 2016
 I am a matintenance superviso
 I teach in git and github
 Now i am working gms composite
-
 hi 
 logo alignment is centered
+This text added from main branch
